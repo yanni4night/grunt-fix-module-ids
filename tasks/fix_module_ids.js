@@ -56,9 +56,6 @@ module.exports = function(grunt) {
 
       // Write the destination file.
       grunt.file.write(f.dest, dist);
-
-      // Print a success message.
-      grunt.log.writeln('File "' + f.dest + '" created.');
     });
   });
 
