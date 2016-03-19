@@ -1,7 +1,7 @@
 {
   "name": "grunt-fix-module-ids",
   "description": "Fixed module ids for systemjs modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/yinyong/grunt-fix-module-ids",
   "author": {
     "name": "Yanni Nightingale",
@@ -34,7 +34,9 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "systemjs",
+    "module"
   ],
   "dependencies": {
     "fix-module-ids": "^1.2.2"
