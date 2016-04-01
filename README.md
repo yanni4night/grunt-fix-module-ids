@@ -1,6 +1,16 @@
 # grunt-fix-module-ids
 
-> Fixed module ids for systemjs modules
+[npm-url]: https://npmjs.org/package/grunt-fix-module-ids
+[downloads-image]: http://img.shields.io/npm/dm/grunt-fix-module-ids.svg
+[npm-image]: http://img.shields.io/npm/v/grunt-fix-module-ids.svg
+[david-dm-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids
+[david-dm-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids.svg
+[david-dm-dev-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids#info=devDependencies
+[david-dm-dev-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids/dev-status.svg
+[grunt-url]:http://gruntjs.com/
+[grunt-image]: https://cdn.gruntjs.com/builtwith.png
+
+> Fixed module ids for systemjs modules.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
