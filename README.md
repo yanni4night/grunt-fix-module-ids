@@ -1,14 +1,5 @@
 # grunt-fix-module-ids
-
-[npm-url]: https://npmjs.org/package/grunt-fix-module-ids
-[downloads-image]: http://img.shields.io/npm/dm/grunt-fix-module-ids.svg
-[npm-image]: http://img.shields.io/npm/v/grunt-fix-module-ids.svg
-[david-dm-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids
-[david-dm-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids.svg
-[david-dm-dev-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids#info=devDependencies
-[david-dm-dev-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids/dev-status.svg
-[grunt-url]:http://gruntjs.com/
-[grunt-image]: https://cdn.gruntjs.com/builtwith.png
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url] [![Built with Grunt][grunt-image]][grunt-url]
 
 > Fixed module ids for systemjs modules.
 
@@ -117,3 +108,13 @@ System.register('index', ['base'], function(){
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+[npm-url]: https://npmjs.org/package/grunt-fix-module-ids
+[downloads-image]: http://img.shields.io/npm/dm/grunt-fix-module-ids.svg
+[npm-image]: http://img.shields.io/npm/v/grunt-fix-module-ids.svg
+[david-dm-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids
+[david-dm-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids.svg
+[david-dm-dev-url]:https://david-dm.org/yanni4night/grunt-fix-module-ids#info=devDependencies
+[david-dm-dev-image]:https://david-dm.org/yanni4night/grunt-fix-module-ids/dev-status.svg
+[grunt-url]:http://gruntjs.com/
+[grunt-image]: https://cdn.gruntjs.com/builtwith.png
